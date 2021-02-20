@@ -83,9 +83,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME':'seven_cms_db',
         'USER':'root',
-        'PASSWORD':'123456',
+        'PASSWORD':'491722',
         'PORT':'3306',
-        'HOST':'127.0.0.1',
+        'HOST':'47.92.158.170',
     }
 }
 
